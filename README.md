@@ -7,7 +7,8 @@ Procesamiento de un archivo de texto que contiene un texto en el idioma Español
 
 - __Lenguaje:__ Python
 - __Versión:__ 3.9
-- [__Jupyter notebook__](https://github.com/ferwiis/python-integral_definida/tree/main/src)
-- [__Documentación__](https://github.com/ferwiis/python-integral_definida/tree/main/docs): Problemática a solucionar
-- [__Archivo de prueba (para ejecución)__](https://github.com/ferwiis/python-integral_definida/tree/main/tests): Texto en el idioma Español en archivo .txt
+- [__Jupyter notebook__](https://github.com/ferwiis/python-procesamiento_texto/tree/main/src)
+- [__Documentación__](https://github.com/ferwiis/python-procesamiento_texto/tree/main/docs): Problemática a solucionar
+- [__Stop words del Español__](https://github.com/ferwiis/python-procesamiento_texto/tree/main/assets)
+- [__Archivo de prueba (para ejecución)__](https://github.com/ferwiis/python-procesamiento_texto/tree/main/tests): Texto en el idioma Español en archivo .txt
   
